@@ -1,10 +1,10 @@
-# Package name
-Package Name
+# Discussion
+discussion
 <pre>
-  pip install independent-machine
+  pip install <dis></dis>
 </pre>
 Then:
 ```Python
   # Python
-  import independent_machine
+  import discussion
 ```
