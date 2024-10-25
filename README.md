@@ -1,7 +1,7 @@
 # Discussion
 discussion
 <pre>
-  pip install <dis></dis>
+  pip install discussion
 </pre>
 Then:
 ```Python
